@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+header {
+    color: white;
+}
+
+ul { 
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
