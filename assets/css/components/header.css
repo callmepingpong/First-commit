@@ -2,17 +2,25 @@ header {
     color: white;
 }
 
+header h1 {
+  text-align: center;
+}
+
+header p {
+  text-align: center;
+}
+
 body,html {
     margin: 0;
     font: bold 14px/1.4 'Open Sans', arial, sans-serif;
     background: #000;
   }
   ul { 
-    margin: 150px auto 0; 
+    margin: 50px auto 0; 
     padding: 0; 
     list-style: none; 
     display: table;
-    width: 600px;
+    width: 700px;
     text-align: center;
   }
   li { 
